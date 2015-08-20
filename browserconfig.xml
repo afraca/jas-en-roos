@@ -2,11 +2,11 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square70x70logo src="/mstile-70x70.png"/>
-      <square150x150logo src="/mstile-150x150.png"/>
-      <square310x310logo src="/mstile-310x310.png"/>
-      <wide310x150logo src="/mstile-310x150.png"/>
-      <TileColor>#da532c</TileColor>
+      <square70x70logo src="/jas-en-roos-wedding-inc/mstile-70x70.png?v=allQNXy9kB"/>
+      <square150x150logo src="/jas-en-roos-wedding-inc/mstile-150x150.png?v=allQNXy9kB"/>
+      <square310x310logo src="/jas-en-roos-wedding-inc/mstile-310x310.png?v=allQNXy9kB"/>
+      <wide310x150logo src="/jas-en-roos-wedding-inc/mstile-310x150.png?v=allQNXy9kB"/>
+      <TileColor>#b91d47</TileColor>
     </tile>
   </msapplication>
 </browserconfig>
